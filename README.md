@@ -1,2 +1,2 @@
-# ResearchProjectGH
+# researchProject
  
