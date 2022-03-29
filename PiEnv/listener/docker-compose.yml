@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  listener: 
+    build: .
+    restart: always
+    volumes:
+      - /dev:/dev
+    privileged: true
+
