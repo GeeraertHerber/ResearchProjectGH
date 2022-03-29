@@ -112,3 +112,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Images
+
+.bmp
+.png
+
+NeuralNetworks/bike
+
+NeuralNetworks/bike
+NeuralNetworks/cars
+NeuralNetworks/non-vehicles
+NeuralNetworks/rpvenv
+NeuralNetworks/StreetImages
+NeuralNetworks/vehicles
+
+Indienen
+
+*.zip
+*.docx
+*.exe
